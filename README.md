@@ -1,4 +1,4 @@
-# 🍳 Hi there, I’m Verónica Avalos (VA)  
+# 🍳 Hi there, I’m Verónica Avalos 
 ### Data Engineer | Cloud Architect | Storyteller at DataChef  
 
 > “Great data isn’t about volume — it’s about trust, usability, and impact.”
